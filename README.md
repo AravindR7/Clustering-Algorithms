@@ -1,1 +1,2 @@
-# Clustering-Algorithms
+# Clustering
+Different clustering approaches and applications

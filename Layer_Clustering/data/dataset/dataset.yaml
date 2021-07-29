@@ -1,0 +1,13 @@
+# New Project Example
+
+apiVersion: 1
+
+# Unique name of this dataset which will be used in this project to
+# refer to this dataset
+name: "customers"
+type: source
+
+materializations:
+  - type: table
+    target: layer
+    table_name: "customers"
